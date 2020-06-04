@@ -1,0 +1,5 @@
+/bin/
+*.class
+/.idea/
+Election-Audit-File
+Invalid-Ballots-Report
